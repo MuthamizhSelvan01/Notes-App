@@ -20,7 +20,7 @@ Welcome to the Notes App! This is a simple and intuitive notes application built
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/Tahrim19/Notes-app.git
+git clone https://github.com/MuthamizhSelvan01/Notes-App.git
 cd Notes-app
 npm install
 ```
@@ -35,10 +35,6 @@ npm install
 
 2. Open your browser and navigate to `http://localhost:3000`.
 
-## 📚 Documentation
 
-Check out the [Medium article](https://medium.com/@tarimbilal4/create-a-notes-app-using-react-and-local-storage-31c37261a288) for a detailed walkthrough of the project, including how to implement custom hooks and further customize the app. 
 
-## 🧩 Customization
 
-Feel free to customize the app to suit your needs. You can modify the stylesheets and add more features as desired.
